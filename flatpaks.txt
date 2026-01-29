@@ -1,0 +1,10 @@
+com.github.tchx84.Flatseal
+com.lunarclient.LunarClient
+com.mattjakeman.ExtensionManager
+com.modrinth.ModrinthApp
+com.spotify.Client
+md.obsidian.Obsidian
+net.davidotek.pupgui2
+org.gnome.Extensions
+org.prismlauncher.PrismLauncher
+org.vinegarhq.Sober
